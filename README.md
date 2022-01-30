@@ -45,6 +45,7 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 6:30-6:45pm Update README's technology used & fix typos & broken links
 * 6:45-7:40pm Add capstone-proposal.md
 * 7:45-8:00pm Research Firebase
+* 8:00-8:40 Research building a RESTful API with Firebase, Cloud Firestore and Node.js: Watch excellent video series [Building a RESTful API with Cloud Functions and Firestore](https://youtube.com/playlist?list=PLJetLDY7yKupm5WTx02ylh1I25rJLPvXe)
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
