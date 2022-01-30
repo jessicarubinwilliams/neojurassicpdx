@@ -2,7 +2,7 @@
 
 # _neojurassicpdx_
 
-#### _A queryable RESTful API that shares data about pseudo tropical plants appropriate for growing in the Pacific Northwest - 217 different flora, over 1000 plants and trees.  A React frontend that allows the user to search the APIs data._
+#### _A queryable RESTful API that shares data about pseudo tropical plants appropriate for growing in the Pacific Northwest - 217 different flora, over 1000 plants and trees.  A React front-end that allows the user to search the APIs data._
 
 #### _By **Jessica R. Williams**_
 
@@ -23,38 +23,26 @@
 
 ## Technologies Used <a id="technologies"></a>
 
-* _Babel/core 7.6.4_
-* _Babel/plugin-transform-modules-commonjs 7.6.0_
 * _Bootstrap 4.5.0_
-* _clean-webpack-plugin 3.0.0_
 * _CSS_
-* _css-loader 3.2.0_
-* _eslint 6.3.0_
-* _eslint-loader 3.0.0_
-* _file-loader 1.1.6_
 * _HTML5_
-* _html-loader 0.5.5_
-* _html-webpack-plugin 3.2.0_
 * _JavaScript ES6_
-* _Jest 24.9.0_
-* _jQuery 3.5.1_
-* _Node Package Manager 6.14.9_
-* _popper.js 1.16.1_
-* _style-loader 1.0.0_
-* _webpack 4.39.3_
-* _webpack-cli 3.3.8_
-* _webpack-dev-server 3.11.2_
+* _Node Package Manager 7.20.3_
+* _React 17.0.2_
+* _React Dom 17.0.2_
+* _React Scripts 3.2.0_
 
 ## Description <a id="description"></a>
 
-_A queryable API using RESTful principles that shares data about the plants and appropriate places to plant them of the garden of [Instagram’s @neojurassicpdx]https://www.instagram.com/neojurassicpdx/) - a pseudo tropical Pacific Northwest garden with an emphasis on foliage - 217 different flora, over 1000 plants and trees.  A React webpage that displays and allows the user to search the APIs data._
+_A queryable API using RESTful principles that shares data about the plants and appropriate places to plant them of the garden of Instagram’s [@neojurassicpdx](https://www.instagram.com/neojurassicpdx/) - a pseudo tropical Pacific Northwest garden with an emphasis on foliage - 217 different flora, over 1000 plants and trees.  A React webpage that displays and allows the user to search the APIs data._
 
 ## Research & Planning Log <a id="planning"></a>
 
-_This project is a Capstone for my certificate in Web and Mobile Development from [Epicodus bootcamp](https://www.epicodus.com/). Below is the required log of my research and planning time.
+_This project is a Capstone for my certificate in Web and Mobile Development from [Epicodus](https://www.epicodus.com/) bootcamp. Below is the required log of my research and planning time._
 
-#### Saturday, January 29, 2022
-* 6:00-630pm Create directory, add initial README.md, create repo and link
+### Saturday, January 29, 2022
+* 6:00-6:30pm Create directory, add initial README.md, create repo and link
+* 6:30-6:45pm Update README's technology used & fix typos & broken links
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
