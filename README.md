@@ -49,8 +49,9 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 6:30-6:45pm Update README's technology used & fix typos & broken links
 * 6:45-7:40pm Add capstone-proposal.md
 * 7:45-8:00pm Research Firebase
-* 8:00-8:40pm Research building a RESTful API with Firebase webhosting, Cloud Firestore database, Node.js Runtime Environment, and ExpressJS Framework for Middleware. Noteably, watched excellent video series [Building a RESTful API with Cloud Functions and Firestore](https://youtube.com/playlist?list=PLJetLDY7yKupm5WTx02ylh1I25rJLPvXe)
+* 8:00-8:40pm Research building a RESTful API with Firebase web hosting, Cloud Firestore database, Node.js Runtime Environment, and ExpressJS Framework for Middleware. Noteably, watched excellent video series [Building a RESTful API with Cloud Functions and Firestore](https://youtube.com/playlist?list=PLJetLDY7yKupm5WTx02ylh1I25rJLPvXe)
 * 8:40-9:15pm Research ExpressJS Framework for Node.js to use as Middleware and Node.js Runtime Environment. Noteable videos: [Learn Express Middleware In 14 Minutes](https://youtu.be/lY6icfhap2o), [Express JS - What the Heck is Middleware](https://youtu.be/MIr1oxQ3pao), [Express.js Fundamentals - 6 - Middleware Explained](https://youtu.be/9HOem0amlyg)
+* 9:15-10pm Design plant database
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
