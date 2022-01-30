@@ -24,9 +24,13 @@
 ## Technologies Used <a id="technologies"></a>
 
 * _Bootstrap 4.5.0_
+* _Cloud Firestore_
 * _CSS_
+* _Express_
 * _HTML5_
+* _Firebase_
 * _JavaScript ES6_
+* _Node.js 16.6.1_
 * _Node Package Manager 7.20.3_
 * _React 17.0.2_
 * _React Dom 17.0.2_
