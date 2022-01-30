@@ -12,7 +12,7 @@ _A queryable API using RESTful principles that shares data about the plants and 
 
 What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
 
-* _Firebase & NoSQL for the API_
+* _Firebase, Cloud Firestore, Express and Node.js for the API_
 * _React for the UI_
 
 If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
