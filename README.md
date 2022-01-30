@@ -43,6 +43,7 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 ### Saturday, January 29, 2022
 * 6:00-6:30pm Create directory, add initial README.md, create repo and link
 * 6:30-6:45pm Update README's technology used & fix typos & broken links
+* 6:45-7:40pm Add capstone-proposal.md
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
