@@ -18,7 +18,9 @@ What tools, frameworks, libraries, APIs, modules and/or other resources (whateve
 If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
 
 * _Deploying both the API & the UI_
-* _Swagger-Based Documentation for the API_
+* _Add @neojurassic's Instagram feed to the UI (with Marc's permission)_
+* _Get fancier with the UI styling_
+* _Swagger-based documentation for the API_
 * _a navbar in the API_
 * _search box in the navbar_ 
 * _add images to the API_ 
@@ -26,11 +28,12 @@ If you finish developing the minimum viable product (MVP) with time to spare, wh
 * _Token-based user authentication and authorization for CUD functionality of the API_
 * _Enable CORS for the API_
 * _user authorization and authentication for both the UI:_
-1. _user accounts for saving "favorited" plants_
-2. _admin accounts for web-based interface for create, update and delete functionality of the API_
-3. _limited user access to updating sources for obtaining each plant_
-4. _Add functionality for a user to submit requests to the admins for corrections or additions to the database_ 
+    - _user accounts for saving "favorited" plants_
+    - _admin accounts for web-based interface for create, update and delete functionality of the API_
+    - _limited user access to updating sources for obtaining each plant_
+    - _Add functionality for a user to submit requests to the admins for corrections or additions to the database_ 
 
 What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
 
-* _???_
+* _Additional Firebase Cloud functionality_
+* _Bootstrap_
