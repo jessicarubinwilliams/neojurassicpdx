@@ -10,30 +10,31 @@ _A queryable API using RESTful principles that shares data about the plants and 
 * _A full CRUD API of plant listings_
 * _A web-based front-end UI for querying the API and displaying the results_
 
-What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
+## _What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific._
 
 * _Firebase, Cloud Firestore, Express and Node.js for the API_
 * _React for the UI_
 
-If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
+## _If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific._
 
 * _Deploying both the API & the UI_
 * _Add @neojurassic's Instagram feed to the UI (with Marc's permission)_
 * _Get fancier with the UI styling_
 * _Swagger-based documentation for the API_
-* _a navbar in the API_
+* _a navbar in the UI_
 * _search box in the navbar_ 
 * _add images to the API_ 
 * _render images from the API in the UI_
-* _Token-based user authentication and authorization for CUD functionality of the API_
+* _Token-based user authentication and authorization for CUD functionality of the API (Read will not require this)_
 * _Enable CORS for the API_
-* _user authorization and authentication for both the UI:_
+* _user authorization and authentication for both the UI and the API:_
     - _user accounts for saving "favorited" plants_
     - _admin accounts for web-based interface for create, update and delete functionality of the API_
     - _limited user access to updating sources for obtaining each plant_
     - _Add functionality for a user to submit requests to the admins for corrections or additions to the database_ 
 
-What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
+## _What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?_
 
 * _Additional Firebase Cloud functionality_
 * _Bootstrap_
+* _Swagger_
