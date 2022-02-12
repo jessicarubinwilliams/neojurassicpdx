@@ -55,6 +55,7 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 
 ## Saturday, February 12, 2022
 * 1:30-2:00pm Further research building a RESTFUL API with Firebase web hosting, Cloud Firestore database and TypeScript. Watch first half of video [Build a Serverless API with Firebase cloud functions, TypeScript and Firestore](https://www.youtube.com/watch?v=T8SZv6h2WbY)
+* 2:00-2:30pm Further research building a RESTFUL API with Firebase web hosting, Cloud Firestore database and TypeScript. Watch second half of video [Build a Serverless API with Firebase cloud functions, TypeScript and Firestore](https://www.youtube.com/watch?v=T8SZv6h2WbY)
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
