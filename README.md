@@ -53,6 +53,9 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 8:40-9:15pm Research ExpressJS Framework for Node.js to use as Middleware and Node.js Runtime Environment. Noteable videos: [Learn Express Middleware In 14 Minutes](https://youtu.be/lY6icfhap2o), [Express JS - What the Heck is Middleware](https://youtu.be/MIr1oxQ3pao), [Express.js Fundamentals - 6 - Middleware Explained](https://youtu.be/9HOem0amlyg)
 * 9:15-10pm Design plant database
 
+## Saturday, February 12, 2022
+* 1:30-
+
 ## Setup/Installation Requirements <a id="setup"></a>
 
 * _Open the terminal on your local machine_
