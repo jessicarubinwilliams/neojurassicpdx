@@ -59,6 +59,7 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 2:30-3:00pm Research TypeScript. Watch first ~third of video [React & TypeScript - Course for Beginners](https://www.youtube.com/watch?v=FJDVKeh7RJI)
 * 3:00-3:30pm Research TypeScript. Watch second ~third of video [React & TypeScript - Course for Beginners](https://www.youtube.com/watch?v=FJDVKeh7RJI)
 * 3:30-4:15pm Research TypeScript. Watch final ~third of video [React & TypeScript - Course for Beginners](https://www.youtube.com/watch?v=FJDVKeh7RJI)
+* 4:15-4:45pm Research TDD with React. Watch video [Introduction to Test Driven Development with React](https://www.youtube.com/watch?v=7WY1cfRoUJk)
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
