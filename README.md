@@ -60,6 +60,7 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 3:00-3:30pm Research TypeScript. Watch second ~third of video [React & TypeScript - Course for Beginners](https://www.youtube.com/watch?v=FJDVKeh7RJI)
 * 3:30-4:15pm Research TypeScript. Watch final ~third of video [React & TypeScript - Course for Beginners](https://www.youtube.com/watch?v=FJDVKeh7RJI)
 * 4:15-4:45pm Research TDD with React. Watch video [Introduction to Test Driven Development with React](https://www.youtube.com/watch?v=7WY1cfRoUJk)
+* 4:45-5:30pm Research TDD with React. Watch video [React TDD in 30 Minute - Test Driven Development with Jest and Enzyme](https://www.youtube.com/watch?v=-bmdf1oATQo) and skim article [Test-Driven Development with React, Jest, and Enzyme - Part 1](https://testdriven.io/blog/tdd-with-react-jest-and-enzyme-part-one/)
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
