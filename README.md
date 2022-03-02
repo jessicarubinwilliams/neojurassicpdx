@@ -78,7 +78,11 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 8pm-8:30pm Research user authentication with Firebase 9. Most helpful resource I found: [Handling user authentication with Firebase](https://blog.logrocket.com/user-authentication-firebase-react-apps/)
 * 8:30pm-9pm Create and link [new repo](https://github.com/jessicarubinwilliams/firebase-practice-api-2) & Firebase project for a second practice API. Needing to deploy feature branches to Firestore makes feature branch development less helpful than a new repo at this point.
 
-TOTAL DOCUMENTED HOURS TO DATE: 15
+# Wednesday, March 2, 2022
+
+* 11:00am-11:30am Research Node.js - highlight was YouTube video [What is Node.js Exactly? - a beginners introduction to Nodejs](https://youtu.be/pU9Q6oiQNd0)
+
+TOTAL DOCUMENTED HOURS AS OF 3/2 11:30am: 15.5 
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
