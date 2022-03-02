@@ -73,6 +73,8 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 2:30pm-3:30pm Continue working on building sample API sample API using Firestore, Firebase, Node.js, Express middleware, and Typescript - [See commit history of the sample API's repo](https://github.com/jessicarubinwilliams/ebenezer-don-practice-api/commits/main) - Worked on getAll route, currently broken & added stretch goals to the README
 * 6pm-6:30pm Housekeeping - updated this neglected log
 * 6:30pm-7pm Continue working on building sample API sample API using Firestore, Firebase, Node.js, Express middleware, and Typescript - [See commit history of the sample API's repo](https://github.com/jessicarubinwilliams/ebenezer-don-practice-api/commits/main) - Added getAll route
+* 6:30pm-7pm Continue working on building sample API sample API using Firestore, Firebase, Node.js, Express middleware, and Typescript - [See commit history of the sample API's repo](https://github.com/jessicarubinwilliams/ebenezer-don-practice-api/commits/main) - Added getAll route
+* 7pm-7:30pm Continue working on building sample API sample API using Firestore, Firebase, Node.js, Express middleware, and Typescript - [See commit history of the sample API's repo](https://github.com/jessicarubinwilliams/ebenezer-don-practice-api/commits/main) - Added update & delete routes
 
 TOTAL DOCUMENTED HOURS TO DATE: 12.5
 
