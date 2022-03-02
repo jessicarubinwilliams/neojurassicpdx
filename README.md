@@ -76,6 +76,7 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 7pm-7:30pm Continue working on building sample API sample API using Firestore, Firebase, Node.js, Express middleware, and Typescript - [See commit history of the sample API's repo](https://github.com/jessicarubinwilliams/ebenezer-don-practice-api/commits/main) - Add & deploy update & delete routes & test in Postman
 * 7:30pm-8pm Continue working on building sample API sample API using Firestore, Firebase, Node.js, Express middleware, and Typescript - [See commit history of the sample API's repo](https://github.com/jessicarubinwilliams/ebenezer-don-practice-api/commits/main) - Add & deploy 400 error handling - user error
 * 8pm-8:30pm Research user authentication with Firebase 9. Most helpful resource I found: [Handling user authentication with Firebase](https://blog.logrocket.com/user-authentication-firebase-react-apps/)
+* 8:30pm-9pm Create and link [new repo](https://github.com/jessicarubinwilliams/firebase-practice-api-2) & Firebase project for a second practice API. Needing to deploy feature branches to Firestore makes feature branch development less helpful than a new repo at this point.
 
 TOTAL DOCUMENTED HOURS TO DATE: 14.5
 
