@@ -49,18 +49,31 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 6:30-6:45pm Update README's technology used & fix typos & broken links
 * 6:45-7:40pm Add capstone-proposal.md
 * 7:45-8:00pm Research Firebase
-* 8:00-8:40pm Research building a RESTful API with Firebase web hosting, Cloud Firestore database, Node.js Runtime Environment, and ExpressJS Framework for Middleware. Noteably, watched excellent video series [Building a RESTful API with Cloud Functions and Firestore](https://youtube.com/playlist?list=PLJetLDY7yKupm5WTx02ylh1I25rJLPvXe)
+* 8:00-8:40pm Research building a RESTful API with Firebase web hosting, Cloud Firestore database, Node.js Runtime Environment, and ExpressJS Framework for Middleware. Noteably, watched excellent video series [Building a RESTful API with Cloud Functions and Firestore](https://youtube.com/playlist?list=PLJetLDY7yKupm5WTx02ylh1I25rJLPvXe). The dependencies are outdated but the concepts are helpful.
 * 8:40-9:15pm Research ExpressJS Framework for Node.js to use as Middleware and Node.js Runtime Environment. Noteable videos: [Learn Express Middleware In 14 Minutes](https://youtu.be/lY6icfhap2o), [Express JS - What the Heck is Middleware](https://youtu.be/MIr1oxQ3pao), [Express.js Fundamentals - 6 - Middleware Explained](https://youtu.be/9HOem0amlyg)
 * 9:15-10pm Design plant database
 
 ## Saturday, February 12, 2022
-* 1:30-2:00pm Further research building a RESTFUL API with Firebase web hosting, Cloud Firestore database and TypeScript. Watch first half of video [Build a Serverless API with Firebase cloud functions, TypeScript and Firestore](https://www.youtube.com/watch?v=T8SZv6h2WbY)
+* 1:30-2:00pm Further research building a RESTFUL API with Firebase web hosting, Cloud Firestore database and TypeScript. Watch first half of video [Build a Serverless API with Firebase cloud functions, TypeScript and Firestore](https://www.youtube.com/watch?v=T8SZv6h2WbY). The dependencies are closer to current Firebase 9 but will still require some tweaking.
 * 2:00-2:30pm Further research building a RESTFUL API with Firebase web hosting, Cloud Firestore database and TypeScript. Watch second half of video [Build a Serverless API with Firebase cloud functions, TypeScript and Firestore](https://www.youtube.com/watch?v=T8SZv6h2WbY)
 * 2:30-3:00pm Research TypeScript. Watch first ~third of video [React & TypeScript - Course for Beginners](https://www.youtube.com/watch?v=FJDVKeh7RJI)
 * 3:00-3:30pm Research TypeScript. Watch second ~third of video [React & TypeScript - Course for Beginners](https://www.youtube.com/watch?v=FJDVKeh7RJI)
 * 3:30-4:15pm Research TypeScript. Watch final ~third of video [React & TypeScript - Course for Beginners](https://www.youtube.com/watch?v=FJDVKeh7RJI)
 * 4:15-4:45pm Research TDD with React. Watch video [Introduction to Test Driven Development with React](https://www.youtube.com/watch?v=7WY1cfRoUJk)
 * 4:45-5:30pm Research TDD with React. Watch video [React TDD in 30 Minute - Test Driven Development with Jest and Enzyme](https://www.youtube.com/watch?v=-bmdf1oATQo) and skim article [Test-Driven Development with React, Jest, and Enzyme - Part 1](https://testdriven.io/blog/tdd-with-react-jest-and-enzyme-part-one/)
+
+# Monday, February 28, 2022
+
+* 8pm-9pm Begin building sample API using Firestore, Firebase, Node.js, Express middleware, and Typescript - [See commit history of the sample API's repo](https://github.com/jessicarubinwilliams/ebenezer-don-practice-api/commits/main) - set up project, created and tested in Postman basic helloWorld function to test API set up and link to firebase & firestore
+
+# Tuesday, March 1, 2022
+
+* 10am-11am Continue working on building sample API sample API using Firestore, Firebase, Node.js, Express middleware, and Typescript - [See commit history of the sample API's repo](https://github.com/jessicarubinwilliams/ebenezer-don-practice-api/commits/main) - researched and experimented with how to configure Firebase Functions using .env as well as ES6 import statements. Eventually used require statement because it worked and that's what the Firebase documentation shows. Cobbled together something that works using multiple resources. [Firebase Admin SDK Docs](https://firebase.google.com/docs/admin/setup), [Firebase Environment Configuratin Docs](https://firebase.google.com/docs/functions/config-env), & ["Configuring Firebase Admin SDK with Express"](https://medium.com/@tanya/configuring-firebase-admin-sdk-with-express-931b02ee2f91) Medium article.
+* 1:30pm-2:30pm Continue working on building sample API sample API using Firestore, Firebase, Node.js, Express middleware, and Typescript - [See commit history of the sample API's repo](https://github.com/jessicarubinwilliams/ebenezer-don-practice-api/commits/main) - Added post route & tested in Postman
+* 2:30pm-3:30pm Continue working on building sample API sample API using Firestore, Firebase, Node.js, Express middleware, and Typescript - [See commit history of the sample API's repo](https://github.com/jessicarubinwilliams/ebenezer-don-practice-api/commits/main) - Worked on getAll route, currently broken & added stretch goals to the README
+* 6pm-6:30pm Housekeeping - updated this neglected log
+
+TOTAL DOCUMENTED HOURS TO DATE: 12.5
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
