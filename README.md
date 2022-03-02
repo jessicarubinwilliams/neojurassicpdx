@@ -81,8 +81,9 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 # Wednesday, March 2, 2022
 
 * 11:00am-11:30am Research Node.js - highlight was YouTube video [What is Node.js Exactly? - a beginners introduction to Nodejs](https://youtu.be/pU9Q6oiQNd0)
+* 12:45pm-1:15pm Research Nodde.js - start YouTube Node.js tutorial [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://youtu.be/TlB_eWDSMt4)
 
-TOTAL DOCUMENTED HOURS AS OF 3/2 11:30am: 15.5 
+TOTAL DOCUMENTED HOURS AS OF 3/2 1:15am: 16 
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
