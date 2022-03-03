@@ -88,8 +88,9 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 2:45pm-3:15pm Continue researching Node.js - finish watching YouTube Node.js tutorial [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://youtu.be/TlB_eWDSMt4). While technically this is a 1 hour and 20 minute video, I needed to pause and replay a lot both to follow along with the coding as well as to do some side research.
 * 3:15pm-3:45pm Research the HTTP Transaction - watch YouTube Node.js tutorial [HTTP Transaction explain with real time example | Working of HTTP](https://youtu.be/Nj8pGsBvcmo) & skim Node.js documentation, [Anatomy of an HTTP Transaction](https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/).
 * 3:45pm-4:15pm Research Express.js routing - read Express.js documentation: [Express basic routing](https://expressjs.com/en/starter/basic-routing.html), [Express routing](https://expressjs.com/en/guide/routing.html) & [app.METHOD](https://expressjs.com/en/4x/api.html#app.METHOD).
+* 5:00pm-5:30pm Research REST APIs with Noed.js & Express.js  - begin watching YouTube tutorial [How to build a REST API with Node js & Express](https://youtu.be/pKd0Rpw7O48).
 
-TOTAL DOCUMENTED HOURS AS OF 3/2 4:15pm: 19
+TOTAL DOCUMENTED HOURS AS OF 3/2 5:30pm: 19.5
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
