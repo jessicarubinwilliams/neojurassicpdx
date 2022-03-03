@@ -93,8 +93,9 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 6:00pm-6:30pm Deploy and test in Postman [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2) created last night
 * 6:30pm-7:00pm Continue researching REST APIs with Node.js & Express.js  - continue watching YouTube tutorial [How to build a REST API with Node js & Express](https://youtu.be/pKd0Rpw7O48).
 * 7:00pm-7:30pm Continue researching REST APIs with Node.js & Express.js  - finish watching YouTube tutorial [How to build a REST API with Node js & Express](https://youtu.be/pKd0Rpw7O48). A few minor updates to [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2)
+* 7:30pm-8:00pm Continue researching Firebase REST APIs with Node.js & Express.js  - start watching YouTube tutorial [Firebase Node REST API | Firestore | Babel | REST | API](https://youtu.be/DO-PROnaVwo).
 
-TOTAL DOCUMENTED HOURS AS OF 3/2 7:30pm: 21.5
+TOTAL DOCUMENTED HOURS AS OF 3/2 8:00pm: 22
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
