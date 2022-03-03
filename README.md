@@ -78,7 +78,7 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 8pm-8:30pm Research user authentication with Firebase 9. Most helpful resource I found: [Handling user authentication with Firebase](https://blog.logrocket.com/user-authentication-firebase-react-apps/)
 * 8:30pm-9pm Create and link [new repo](https://github.com/jessicarubinwilliams/firebase-practice-api-2) & Firebase project for a second practice API. Needing to deploy feature branches to Firestore makes feature branch development less helpful than a new repo at this point.
 
-# Wednesday, March 2, 2022
+# Wednesday, March 2, 2022 - 7.75 hours (22.5 total)
 
 * 11:00am-11:30am Research Node.js - highlight was YouTube video [What is Node.js Exactly? - a beginners introduction to Nodejs](https://youtu.be/pU9Q6oiQNd0)
 * 12:45pm-1:15pm Research Node.js - start YouTube Node.js tutorial [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://youtu.be/TlB_eWDSMt4)
@@ -94,8 +94,9 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 6:30pm-7:00pm Continue researching REST APIs with Node.js & Express.js  - continue watching YouTube tutorial [How to build a REST API with Node js & Express](https://youtu.be/pKd0Rpw7O48).
 * 7:00pm-7:30pm Continue researching REST APIs with Node.js & Express.js  - finish watching YouTube tutorial [How to build a REST API with Node js & Express](https://youtu.be/pKd0Rpw7O48). A few minor updates to [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2)
 * 7:30pm-8:00pm Continue researching Firebase REST APIs with Node.js & Express.js  - start watching YouTube tutorial [Firebase Node REST API | Firestore | Babel | REST | API](https://youtu.be/DO-PROnaVwo).
+* 8:00pm-8:30pm Continue researching Firebase REST APIs with Node.js & Express.js  - finish watching YouTube tutorial [Firebase Node REST API | Firestore | Babel | REST | API](https://youtu.be/DO-PROnaVwo).
 
-TOTAL DOCUMENTED HOURS AS OF 3/2 8:00pm: 22
+TOTAL DOCUMENTED HOURS AS OF 3/2 8:30pm: 22.5
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
