@@ -90,8 +90,9 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 3:45pm-4:15pm Research Express.js routing - read Express.js documentation: [Express basic routing](https://expressjs.com/en/starter/basic-routing.html), [Express routing](https://expressjs.com/en/guide/routing.html) & [app.METHOD](https://expressjs.com/en/4x/api.html#app.METHOD).
 * 5:00pm-5:30pm Research REST APIs with Noed.js & Express.js  - begin watching YouTube tutorial [How to build a REST API with Node js & Express](https://youtu.be/pKd0Rpw7O48).
 * 5:30pm-6:00pm Continue researching REST APIs with Noed.js & Express.js  - continue watching YouTube tutorial [How to build a REST API with Node js & Express](https://youtu.be/pKd0Rpw7O48).
+* 6:00pm-6:30pm Deploy and test in Postman [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2) created last night
 
-TOTAL DOCUMENTED HOURS AS OF 3/2 6:00pm: 20
+TOTAL DOCUMENTED HOURS AS OF 3/2 6:30pm: 20.5
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
