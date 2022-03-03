@@ -91,8 +91,9 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 5:00pm-5:30pm Research REST APIs with Noed.js & Express.js  - begin watching YouTube tutorial [How to build a REST API with Node js & Express](https://youtu.be/pKd0Rpw7O48).
 * 5:30pm-6:00pm Continue researching REST APIs with Noed.js & Express.js  - continue watching YouTube tutorial [How to build a REST API with Node js & Express](https://youtu.be/pKd0Rpw7O48).
 * 6:00pm-6:30pm Deploy and test in Postman [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2) created last night
+* 6:30pm-7:00pm Continue researching REST APIs with Noed.js & Express.js  - continue watching YouTube tutorial [How to build a REST API with Node js & Express](https://youtu.be/pKd0Rpw7O48).
 
-TOTAL DOCUMENTED HOURS AS OF 3/2 6:30pm: 20.5
+TOTAL DOCUMENTED HOURS AS OF 3/2 7:00pm: 21
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
