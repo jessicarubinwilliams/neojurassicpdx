@@ -95,8 +95,12 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 7:00pm-7:30pm Continue researching REST APIs with Node.js & Express.js  - finish watching YouTube tutorial [How to build a REST API with Node js & Express](https://youtu.be/pKd0Rpw7O48). A few minor updates to [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2)
 * 7:30pm-8:00pm Continue researching Firebase REST APIs with Node.js & Express.js  - start watching YouTube tutorial [Firebase Node REST API | Firestore | Babel | REST | API](https://youtu.be/DO-PROnaVwo).
 * 8:00pm-8:30pm Continue researching Firebase REST APIs with Node.js & Express.js  - finish watching YouTube tutorial [Firebase Node REST API | Firestore | Babel | REST | API](https://youtu.be/DO-PROnaVwo).
+* 8:00pm-8:30pm Continue researching Firebase REST APIs with Node.js & Express.js  - finish watching YouTube tutorial [Firebase Node REST API | Firestore | Babel | REST | API](https://youtu.be/DO-PROnaVwo).
 
-TOTAL DOCUMENTED HOURS AS OF 3/2 8:30pm: 22.5
+# Thursday, March 3, 2022 - 0.5 hours (23 total)
+* 7:30pm-8:00 Continue researching Firebase REST APIs with Node.js & Express.js  - type up & organize notes I previoulsy took on YouTube tutorial [Firebase Node REST API | Firestore | Babel | REST | API](https://youtu.be/DO-PROnaVwo). See commit history of [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main)
+
+TOTAL DOCUMENTED HOURS AS OF 3/3 8:30pm: 23
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
