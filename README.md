@@ -49,13 +49,13 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 6:30-6:45pm Update README's technology used & fix typos & broken links
 * 6:45-7:40pm Add capstone-proposal.md
 * 7:45-8:00pm Research Firebase
-* 8:00-8:40pm Research building a RESTful API with Firebase web hosting, Cloud Firestore database, Node.js Runtime Environment, and ExpressJS Framework for Middleware. Noteably, watched excellent video series [Building a RESTful API with Cloud Functions and Firestore](https://youtube.com/playlist?list=PLJetLDY7yKupm5WTx02ylh1I25rJLPvXe). The dependencies are outdated but the concepts are helpful.
+* 8:00-8:40pm Research building a RESTful API with Firebase web hosting, Cloud Firestore database, Node.js Runtime Environment, and ExpressJS Framework for Middleware. Noteably, watched excellent video series [Building a RESTful API with Cloud Functions and Firestore](https://youtube.com/playlist?list=PLJetLDY7yKupm5WTx02ylh1I25rJLPvXe) - by Soren Spangsberg Jorgensen. The dependencies are outdated but the concepts are helpful.
 * 8:40-9:15pm Research ExpressJS Framework for Node.js to use as Middleware and Node.js Runtime Environment. Noteable videos: [Learn Express Middleware In 14 Minutes](https://youtu.be/lY6icfhap2o), [Express JS - What the Heck is Middleware](https://youtu.be/MIr1oxQ3pao), [Express.js Fundamentals - 6 - Middleware Explained](https://youtu.be/9HOem0amlyg)
 * 9:15-10pm Design plant database
 
 ## Saturday, February 12, 2022 - 4 hours (8 total)
-* 1:30-2:00pm Further research building a RESTFUL API with Firebase web hosting, Cloud Firestore database and TypeScript. Watch first half of video [Build a Serverless API with Firebase cloud functions, TypeScript and Firestore](https://www.youtube.com/watch?v=T8SZv6h2WbY). The dependencies are closer to current Firebase 9 but will still require some tweaking.
-* 2:00-2:30pm Further research building a RESTFUL API with Firebase web hosting, Cloud Firestore database and TypeScript. Watch second half of video [Build a Serverless API with Firebase cloud functions, TypeScript and Firestore](https://www.youtube.com/watch?v=T8SZv6h2WbY)
+* 1:30-2:00pm Further research building a RESTFUL API with Firebase web hosting, Cloud Firestore database and TypeScript. Watch first half of video [Build a Serverless API with Firebase cloud functions, TypeScript and Firestore](https://www.youtube.com/watch?v=T8SZv6h2WbY) - by Ebenezer Don. The dependencies are closer to current Firebase 9 but will still require some tweaking.
+* 2:00-2:30pm Further research building a RESTFUL API with Firebase web hosting, Cloud Firestore database and TypeScript. Watch second half of video [Build a Serverless API with Firebase cloud functions, TypeScript and Firestore](https://www.youtube.com/watch?v=T8SZv6h2WbY)  - by Ebenezer Don
 * 2:30-3:00pm Research TypeScript. Watch first ~third of video [React & TypeScript - Course for Beginners](https://www.youtube.com/watch?v=FJDVKeh7RJI)
 * 3:00-3:30pm Research TypeScript. Watch second ~third of video [React & TypeScript - Course for Beginners](https://www.youtube.com/watch?v=FJDVKeh7RJI)
 * 3:30-4:15pm Research TypeScript. Watch final ~third of video [React & TypeScript - Course for Beginners](https://www.youtube.com/watch?v=FJDVKeh7RJI)
@@ -88,17 +88,17 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 2:45pm-3:15pm Continue researching Node.js - finish watching YouTube Node.js tutorial [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://youtu.be/TlB_eWDSMt4). While technically this is a 1 hour and 20 minute video, I needed to pause and replay a lot both to follow along with the coding as well as to do some side research.
 * 3:15pm-3:45pm Research the HTTP Transaction - watch YouTube Node.js tutorial [HTTP Transaction explain with real time example | Working of HTTP](https://youtu.be/Nj8pGsBvcmo) & skim Node.js documentation, [Anatomy of an HTTP Transaction](https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/).
 * 3:45pm-4:15pm Research Express.js routing - read Express.js documentation: [Express basic routing](https://expressjs.com/en/starter/basic-routing.html), [Express routing](https://expressjs.com/en/guide/routing.html) & [app.METHOD](https://expressjs.com/en/4x/api.html#app.METHOD).
-* 5:00pm-5:30pm Research REST APIs with Node.js & Express.js  - begin watching YouTube tutorial [How to build a REST API with Node js & Express](https://youtu.be/pKd0Rpw7O48).
-* 5:30pm-6:00pm Continue researching REST APIs with Node.js & Express.js  - continue watching YouTube tutorial [How to build a REST API with Node js & Express](https://youtu.be/pKd0Rpw7O48).
+* 5:00pm-5:30pm Research REST APIs with Node.js & Express.js  - begin watching YouTube tutorial [How to build a REST API with Node js & Express](https://youtu.be/pKd0Rpw7O48) - by Programming with Mosh.
+* 5:30pm-6:00pm Continue researching REST APIs with Node.js & Express.js  - continue watching YouTube tutorial [How to build a REST API with Node js & Express](https://youtu.be/pKd0Rpw7O48)- by Programming with Mosh.
 * 6:00pm-6:30pm Deploy and test in Postman [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2) created last night
-* 6:30pm-7:00pm Continue researching REST APIs with Node.js & Express.js  - continue watching YouTube tutorial [How to build a REST API with Node js & Express](https://youtu.be/pKd0Rpw7O48).
-* 7:00pm-7:30pm Continue researching REST APIs with Node.js & Express.js  - finish watching YouTube tutorial [How to build a REST API with Node js & Express](https://youtu.be/pKd0Rpw7O48). A few minor updates to [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2)
-* 7:30pm-8:00pm Continue researching Firebase REST APIs with Node.js & Express.js  - start watching YouTube tutorial [Firebase Node REST API | Firestore | Babel | REST | API](https://youtu.be/DO-PROnaVwo).
-* 8:00pm-8:30pm Continue researching Firebase REST APIs with Node.js & Express.js  - finish watching YouTube tutorial [Firebase Node REST API | Firestore | Babel | REST | API](https://youtu.be/DO-PROnaVwo).
-* 8:00pm-8:30pm Continue researching Firebase REST APIs with Node.js & Express.js  - finish watching YouTube tutorial [Firebase Node REST API | Firestore | Babel | REST | API](https://youtu.be/DO-PROnaVwo).
+* 6:30pm-7:00pm Continue researching REST APIs with Node.js & Express.js  - continue watching YouTube tutorial [How to build a REST API with Node js & Express](https://youtu.be/pKd0Rpw7O48)- by Programming with Mosh.
+* 7:00pm-7:30pm Continue researching REST APIs with Node.js & Express.js  - finish watching YouTube tutorial [How to build a REST API with Node js & Express](https://youtu.be/pKd0Rpw7O48)- by Programming with Mosh. A few minor updates to [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2)
+* 7:30pm-8:00pm Continue researching Firebase REST APIs with Node.js & Express.js  - start watching YouTube tutorial [Firebase Node REST API | Firestore | Babel | REST | API](https://youtu.be/DO-PROnaVwo) - by Mahesh Kariya.
+* 8:00pm-8:30pm Continue researching Firebase REST APIs with Node.js & Express.js  - finish watching YouTube tutorial [Firebase Node REST API | Firestore | Babel | REST | API](https://youtu.be/DO-PROnaVwo) - by Mahesh Kariya.
+* 8:00pm-8:30pm Continue researching Firebase REST APIs with Node.js & Express.js  - finish watching YouTube tutorial [Firebase Node REST API | Firestore | Babel | REST | API](https://youtu.be/DO-PROnaVwo) - by Mahesh Kariya.
 
 # Thursday, March 3, 2022 - 0.5 hours (23 total)
-* 7:30pm-8:00 Continue researching Firebase REST APIs with Node.js & Express.js  - type up & organize notes I previoulsy took on YouTube tutorial [Firebase Node REST API | Firestore | Babel | REST | API](https://youtu.be/DO-PROnaVwo). See commit history of [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main)
+* 7:30pm-8:00 Continue researching Firebase REST APIs with Node.js & Express.js  - type up & organize notes I previoulsy took on YouTube tutorial [Firebase Node REST API | Firestore | Babel | REST | API](https://youtu.be/DO-PROnaVwo) - by Mahesh Kariya. See commit history of [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main)
 
 TOTAL DOCUMENTED HOURS AS OF 3/3 8:30pm: 23
 
