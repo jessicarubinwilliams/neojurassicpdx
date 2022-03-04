@@ -8,16 +8,15 @@ _A queryable API using RESTful principles that shares data about the plants and 
 ## _List the absolute minimum features the project requires to meet this purpose or goal:_
 
 * _A full CRUD API of plant listings_
-* _A web-based front-end UI for querying the API and displaying the results_
 
 ## _What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific._
 
-* _Firebase, Cloud Firestore, Express and Node.js for the API_
-* _React for the UI_
+* _Typescript, Firebase, Cloud Firestore, Express and Node.js for the API_
 
 ## _If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific._
 
-* _A web-based front-end UI for Create, Update, Delete functionality of the API_
+* _A web-based React front-end UI for querying the API and displaying the results (Read functionality)_
+* _A web-based React front-end UI for Create, Update, Delete functionality of the API_
 * _Deploying both the API & the UI_
 * _Add @neojurassic's Instagram feed to the UI (with Marc's permission)_
 * _Get fancier with the UI styling_
