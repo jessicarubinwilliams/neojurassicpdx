@@ -109,7 +109,7 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 12:30pm-1pm Continue rewatching primary tutorial used for Practice API2 and take better notes. [Build a Serverless API with Firebase cloud functions, TypeScript and Firestore](https://www.youtube.com/watch?v=T8SZv6h2WbY) - by Ebenezer Don. See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main).
 
 
-TOTAL DOCUMENTED HOURS AS OF 3/6 12:30am: 25.5
+TOTAL DOCUMENTED HOURS AS OF 3/6 1:00pm: 26
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
