@@ -107,9 +107,10 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 11am-11:30am Begin rewatching primary tutorial used for Practice API2 and take better notes. [Build a Serverless API with Firebase cloud functions, TypeScript and Firestore](https://www.youtube.com/watch?v=T8SZv6h2WbY) - by Ebenezer Don. See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main).
 * 12pm-12:30pm Continue rewatching primary tutorial used for Practice API2 and take better notes. [Build a Serverless API with Firebase cloud functions, TypeScript and Firestore](https://www.youtube.com/watch?v=T8SZv6h2WbY) - by Ebenezer Don. See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main).
 * 12:30pm-1pm Continue rewatching primary tutorial used for Practice API2 and take better notes. [Build a Serverless API with Firebase cloud functions, TypeScript and Firestore](https://www.youtube.com/watch?v=T8SZv6h2WbY) - by Ebenezer Don. See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main).
+* 1:45pm-2:15pm Finish rewatching primary tutorial used for Practice API2 and taking better notes. [Build a Serverless API with Firebase cloud functions, TypeScript and Firestore](https://www.youtube.com/watch?v=T8SZv6h2WbY) - by Ebenezer Don. See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main).
 
 
-TOTAL DOCUMENTED HOURS AS OF 3/6 1:00pm: 26
+TOTAL DOCUMENTED HOURS AS OF 3/6 2:15pm: 26.5
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
