@@ -102,8 +102,9 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 
 # Sunday, March 6, 2022
 * 9:30am-10am Continue researching Firebase/Firestore Rest APIs with Node.js & Express.js - rewatch YouTube tutorial [Building a RESTful API with Cloud Functions and Firestore](https://youtu.be/XY5WCkgVfPk) and look for ways to improve [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2). See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main).
+* 10am-10:30am Research Firebase Local Emulator Suite - used for building, testing & QA without touching production data. Key resource was Firebse Docs [Introduction to Firebase Local Emulator Suite](https://firebase.google.com/docs/emulator-suite#:~:text=The%20Firebase%20Local%20Emulator%20Suite,get%20running%20and%20prototyping%20quickly.)
 
-TOTAL DOCUMENTED HOURS AS OF 3/6 10:00pm: 23.5
+TOTAL DOCUMENTED HOURS AS OF 3/6 10:30am: 24
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
