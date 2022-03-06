@@ -100,7 +100,10 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 # Thursday, March 3, 2022 - 0.5 hours (23 total)
 * 7:30pm-8:00 Continue researching Firebase REST APIs with Node.js & Express.js  - type up & organize notes I previoulsy took on YouTube tutorial [Firebase Node REST API | Firestore | Babel | REST | API](https://youtu.be/DO-PROnaVwo) - by Mahesh Kariya. See commit history of [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main)
 
-TOTAL DOCUMENTED HOURS AS OF 3/3 8:30pm: 23
+# Sunday, March 6, 2022
+* 9:30am-10am Continue researching Firebase/Firestore Rest APIs with Node.js & Express.js - rewatch YouTube tutorial [Building a RESTful API with Cloud Functions and Firestore](https://youtu.be/XY5WCkgVfPk) and look for ways to improve [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2). See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main).
+
+TOTAL DOCUMENTED HOURS AS OF 3/6 10:00pm: 23.5
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
