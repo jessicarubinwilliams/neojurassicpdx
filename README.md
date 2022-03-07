@@ -116,8 +116,9 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 # Monday, March 7, 2022
 * 9:30am-10:00am Continue researching Firebase/Firestore Rest APIs with Node.js & Express.js - continue rewatch Soren Spangsberg Jorgensen YouTube tutorial[Building a RESTful API with Cloud Functions and Firestore](https://youtu.be/XY5WCkgVfPk) and looking for ways to improve [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2). See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main).
 * 10:00am-10:30am Continue researching Firebase/Firestore Rest APIs with Node.js & Express.js - continue rewatch Soren Spangsberg Jorgensen YouTube tutorial[Building a RESTful API with Cloud Functions and Firestore](https://youtu.be/XY5WCkgVfPk) and looking for ways to improve [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2). See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main).
+* 10:30am-11am Continue researching Firebase/Firestore Rest APIs with Node.js & Express.js - continue rewatch Soren Spangsberg Jorgensen YouTube tutorial[Building a RESTful API with Cloud Functions and Firestore](https://youtu.be/XY5WCkgVfPk) and looking for ways to improve [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2). See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main).
 
-TOTAL DOCUMENTED HOURS AS OF 3/7 10:30am: 29.5
+TOTAL DOCUMENTED HOURS AS OF 3/7 11:00am: 30
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
