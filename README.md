@@ -119,8 +119,9 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 10:30am-11am Continue researching Firebase/Firestore Rest APIs with Node.js & Express.js - continue rewatch Soren Spangsberg Jorgensen YouTube tutorial[Building a RESTful API with Cloud Functions and Firestore](https://youtu.be/XY5WCkgVfPk) and looking for ways to improve [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2). See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main).
 * 11am-11:30am Continue researching Firebase/Firestore Rest APIs with Node.js & Express.js - finish rewatch Soren Spangsberg Jorgensen YouTube tutorial[Building a RESTful API with Cloud Functions and Firestore](https://youtu.be/XY5WCkgVfPk) and looking for ways to improve [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2). See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main). Begin researching how to have `get()` & `getAll()` return the Firestore document's id#s as well as their data.
 * 11:30am-12:00pm Continue researching how to have `get()` & `getAll()` return the Firestore document's id#s as well as their data. Begin Researching difference between Firestore's .get() and .data() methods. Helpful Medium article: [How to read data from Cloud Firestore using get()?](https://medium.com/firebase-tips-tricks/how-to-read-data-from-cloud-firestore-using-get-bf03b6ee4953)
+* 12:00pm-12:30pm Update [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2)'s `getAll()` to return the Firestore documents' id#s as well as their data.
 
-TOTAL DOCUMENTED HOURS AS OF 3/7 12:00pm: 31
+TOTAL DOCUMENTED HOURS AS OF 3/7 12:30pm: 31.5
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
