@@ -111,9 +111,12 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 2:45pm-3:15pm Continue researching Firebase/Firestore Rest APIs with Node.js & Express.js - continue rewatch YouTube tutorial [Building a RESTful API with Cloud Functions and Firestore](https://youtu.be/XY5WCkgVfPk) by Soren Spangsberg Jorgensen and look for ways to improve [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2). See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main).
 * 3:15pm-3:45pm Continue researching Firebase/Firestore Rest APIs with Node.js & Express.js - continue rewatch Soren Spangsberg Jorgensen YouTube tutorial[Building a RESTful API with Cloud Functions and Firestore](https://youtu.be/XY5WCkgVfPk) and looking for ways to improve [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2). See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main).
 * 3:45pm-4:15pm Continue researching Firebase/Firestore Rest APIs with Node.js & Express.js - continue rewatch Soren Spangsberg Jorgensen YouTube tutorial[Building a RESTful API with Cloud Functions and Firestore](https://youtu.be/XY5WCkgVfPk) and looking for ways to improve [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2). See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main).
-* 4:15pm-4:45pm Troubleshoot & fix broken getEntries() of  [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2). See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main).
+* 4:15pm-4:45pm Troubleshoot & fix broken getEntries() of  [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2). See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main).  
 
-TOTAL DOCUMENTED HOURS AS OF 3/6 4:45pm: 28.5
+# Monday, March 7, 2022
+* 9:30am-10:00am Continue researching Firebase/Firestore Rest APIs with Node.js & Express.js - continue rewatch Soren Spangsberg Jorgensen YouTube tutorial[Building a RESTful API with Cloud Functions and Firestore](https://youtu.be/XY5WCkgVfPk) and looking for ways to improve [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2). See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main).
+
+TOTAL DOCUMENTED HOURS AS OF 3/7 10:00am: 29
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
