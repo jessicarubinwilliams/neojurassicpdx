@@ -122,10 +122,10 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 12:00pm-12:30pm Update [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2)'s `getAll()` to return the Firestore documents' id#s as well as their data.  
 * 2:00pm-2:30pm Review Firebase Documentation now that I'm more familiar with how things work. Reviewed section, _Serve dynamic content and host microservices using Firebase Hosting_ [Overview](https://firebase.google.com/docs/hosting/serverless-overview) & [Use Cloug Functions for Firebase](https://firebase.google.com/docs/hosting/functions)  
 * 2:30pm-3:00pm Update [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2)'s README to help develop it into a learning tool. Added section "Key Firebase Documentation for Understanding building a Serverless API using Firebase Cloud Functions for Hosting & Express.js Middleware"
-* 3:00pm-3:30pm  Update [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2)'s `get()` to return the Firestore document's id# as well as the data & begin researching  
-* 3:30pm-4:00pm  Build out [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2)'s Key Documentation section of the `README`  
+* 3:00pm-3:30pm Update [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2)'s `get()` to return the Firestore document's id# as well as the data & begin researching &  Build out [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2)'s Key Documentation section of the `README`  
+* 3:30pm-4:00pm Study Firestore Doc [Querying and filtering data](https://cloud.google.com/firestore/docs/query-data/queries)  
 
-TOTAL DOCUMENTED HOURS AS OF 3/7 4:00pm: 33.5  
+TOTAL DOCUMENTED HOURS AS OF 3/7 4:00pm: 34  
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
