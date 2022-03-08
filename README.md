@@ -124,8 +124,9 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 2:30pm-3:00pm Update [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2)'s README to help develop it into a learning tool. Added section "Key Firebase Documentation for Understanding building a Serverless API using Firebase Cloud Functions for Hosting & Express.js Middleware"
 * 3:00pm-3:30pm Update [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2)'s `get()` to return the Firestore document's id# as well as the data & begin researching &  Build out [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2)'s Key Documentation section of the `README`  
 * 3:30pm-4:00pm Study Firestore Doc [Querying and filtering data](https://cloud.google.com/firestore/docs/query-data/queries)  
+* 6:00pm-6:30pm Explore similar API projects on GitHub. Excellent repository to reference again: [typescript-express-firestore](https://github.com/marcoshuck/typescript-express-firestore)  
 
-TOTAL DOCUMENTED HOURS AS OF 3/7 4:00pm: 34  
+TOTAL DOCUMENTED HOURS AS OF 3/7 6:30pm: 34 
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
