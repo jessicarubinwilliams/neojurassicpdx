@@ -113,7 +113,7 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 3:45pm-4:15pm Continue researching Firebase/Firestore Rest APIs with Node.js & Express.js - continue rewatch Soren Spangsberg Jorgensen YouTube tutorial[Building a RESTful API with Cloud Functions and Firestore](https://youtu.be/XY5WCkgVfPk) and looking for ways to improve [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2). See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main).
 * 4:15pm-4:45pm Troubleshoot & fix broken getEntries() of  [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2). See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main).  
 
-# Monday, March 7, 2022
+# Monday, March 7, 2022 7.5 hours (36 total)
 * 9:30am-10:00am Continue researching Firebase/Firestore Rest APIs with Node.js & Express.js - continue rewatch Soren Spangsberg Jorgensen YouTube tutorial[Building a RESTful API with Cloud Functions and Firestore](https://youtu.be/XY5WCkgVfPk) and looking for ways to improve [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2). See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main).
 * 10:00am-10:30am Continue researching Firebase/Firestore Rest APIs with Node.js & Express.js - continue rewatch Soren Spangsberg Jorgensen YouTube tutorial[Building a RESTful API with Cloud Functions and Firestore](https://youtu.be/XY5WCkgVfPk) and looking for ways to improve [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2). See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main).
 * 10:30am-11am Continue researching Firebase/Firestore Rest APIs with Node.js & Express.js - continue rewatch Soren Spangsberg Jorgensen YouTube tutorial[Building a RESTful API with Cloud Functions and Firestore](https://youtu.be/XY5WCkgVfPk) and looking for ways to improve [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2). See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main).
@@ -128,8 +128,9 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 6:30pm-7:00pm Research adding parameters to `getAll()` for Express.js APIs. Watch YouTube videos [Express JS Tutorial Fast Learn #5 - Query Parameters](https://youtu.be/dqCULpd7OWY) which was quite helpful & [How to Send Query Parameters in GET & POST Request in Node JS with Express & TypeScript](https://youtu.be/aXP3s7kyRBg) which is a little helpful from 4:49-9:00  
 * 7:00pm-7:30pm Continue researching adding parameters to `getAll()` for Express.js APIs. Watch multiple YouTube videos on 2.0x but haven't found the right thing yet. Possibly noteworthy video: [8. query params with express js orm sequelize](https://youtu.be/IPC-jZbafOk) which has very thorough code but no sound or explanation. It is code for an SQL database so unclear how relevant.
 * 7:30pm-8:00pm Continue researching adding parameters to `getAll()` for Express.js APIs. No resources of note found.
+* 8:00pm-8:30pm Continue researching adding parameters to `getAll()` for Express.js APIs. Possibly getting warm with discovery of JS URLSearchParams. [MDN Doc](https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams), [Node.js Doc](https://nodejs.org/api/url.html#class-urlsearchparams), YouTube Tutorials from dcode [URLSearchParams in JavaScript - Constructing Query Strings](https://youtu.be/-D5YGTkTBH4) & [https://youtu.be/-D5YGTkTBH4](https://youtu.be/BOQ9mmUd3dI)
 
-TOTAL DOCUMENTED HOURS AS OF 3/7 8:00pm: 35.5
+TOTAL DOCUMENTED HOURS AS OF 3/7 8:30pm: 36
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
