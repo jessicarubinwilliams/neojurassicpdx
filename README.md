@@ -120,7 +120,7 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 11am-11:30am Continue researching Firebase/Firestore Rest APIs with Node.js & Express.js - finish rewatch Soren Spangsberg Jorgensen YouTube tutorial[Building a RESTful API with Cloud Functions and Firestore](https://youtu.be/XY5WCkgVfPk) and looking for ways to improve [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2). See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main). Begin researching how to have `get()` & `getAll()` return the Firestore document's id#s as well as their data.
 * 11:30am-12:00pm Continue researching how to have `get()` & `getAll()` return the Firestore document's id#s as well as their data. Begin Researching difference between Firestore's .get() and .data() methods. Helpful Medium article: [How to read data from Cloud Firestore using get()?](https://medium.com/firebase-tips-tricks/how-to-read-data-from-cloud-firestore-using-get-bf03b6ee4953)
 * 12:00pm-12:30pm Update [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2)'s `getAll()` to return the Firestore documents' id#s as well as their data.  
-* 2:00pm-2:30pm Review Firebase Documentation now that I'm more familiar with how things work. Reviewed section, _Serve dynamic content and host microservices using Firebase Hosting_ [Overview](https://firebase.google.com/docs/hosting/serverless-overview) & [Use Cloug Functions for Firebase](https://firebase.google.com/docs/hosting/functions)  
+* 2:00pm-2:30pm Review Firebase Documentation now that I'm more familiar with how things work. Reviewed section, _Serve dynamic content and host microservices using Firebase Hosting_ [Overview](https://firebase.google.com/docs/hosting/serverless-overview) & [Use Cloud Functions for Firebase](https://firebase.google.com/docs/hosting/functions)  
 * 2:30pm-3:00pm Update [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2)'s README to help develop it into a learning tool. Added section "Key Firebase Documentation for Understanding building a Serverless API using Firebase Cloud Functions for Hosting & Express.js Middleware"
 * 3:00pm-3:30pm Update [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2)'s `get()` to return the Firestore document's id# as well as the data & begin researching &  Build out [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2)'s Key Documentation section of the `README`  
 * 3:30pm-4:00pm Study Firestore Doc [Querying and filtering data](https://cloud.google.com/firestore/docs/query-data/queries)  
@@ -132,13 +132,19 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 
 # Tuesday, March 8, 2022 - 2.5 hours (38.5 total)
 
-* 6:00pm-6:30pm In the name of trying to understand how to adding parameters to `getAll()` for Express.js APIs reviewed the JS window object, the Node.js server global environment, and the Node.js built in http module.
-* 6:30pm-7:00pm In the name of trying to understand how to adding parameters to `getAll()` for Express.js APIs reviewed Node.js/Express.js routing.
-* 7:00pm-7:30pm In the name of trying to understand how to adding parameters to `getAll()` for Express.js APIs research Node.js/Express.js request object (what the client sends to the Node.js server). Watch YouTube tutorial from Miss Xing [Node.js | Express.js - Request & Response Object in Express](https://youtu.be/TQEdpT6DIKo)
-* 7:45pm-8:15pm In the name of trying to understand how to adding parameters to `getAll()` for Express.js APIs continue researching Node.js/Express.js request object (what the client sends to the Node.js server). Watch YouTube tutorial from [Request object in express](https://youtu.be/S3PJylHxQsE)
+* 6:00pm-6:30pm In the name of trying to understand how to add parameters to `getAll()` for Express.js APIs reviewed the JS window object, the Node.js server global environment, and the Node.js built in http module.
+* 6:30pm-7:00pm In the name of trying to understand how to add parameters to `getAll()` for Express.js APIs reviewed Node.js/Express.js routing.
+* 7:00pm-7:30pm In the name of trying to understand how to add parameters to `getAll()` for Express.js APIs research Node.js/Express.js request object (what the client sends to the Node.js server). Watch YouTube tutorial from Miss Xing [Node.js | Express.js - Request & Response Object in Express](https://youtu.be/TQEdpT6DIKo)
+* 7:45pm-8:15pm In the name of trying to understand how to add parameters to `getAll()` for Express.js APIs continue researching Node.js/Express.js request object (what the client sends to the Node.js server). Watch YouTube tutorial from [Request object in express](https://youtu.be/S3PJylHxQsE)
 * 8:15pm-8:45pm Expand instructive comments in [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2) to improve it as a learning resource. See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main).
 
-TOTAL DOCUMENTED HOURS AS OF 3/8 8:45pm: 38.5
+# Wednesday, March 9, 2022
+
+* 1:45pm-2:15pm Begin developing a "Concepts Needed" section of Practice API 2's README.  
+* 2:15pm-2:45PM Continue developing a "Concepts Needed" section of Practice API 2's README.
+* 2:45pm-3:45pm Continue developing the "Concepts Needed" section of Practice API 2's README.
+
+TOTAL DOCUMENTED HOURS AS OF 3/9 8:45pm: 40
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
