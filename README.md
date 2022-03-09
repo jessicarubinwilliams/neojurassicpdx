@@ -130,14 +130,15 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 7:30pm-8:00pm Continue researching adding parameters to `getAll()` for Express.js APIs. No resources of note found.
 * 8:00pm-8:30pm Continue researching adding parameters to `getAll()` for Express.js APIs. Possibly getting warm with discovery of JS URLSearchParams. [MDN Doc](https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams), [Node.js Doc](https://nodejs.org/api/url.html#class-urlsearchparams), YouTube Tutorials from dcode [URLSearchParams in JavaScript - Constructing Query Strings](https://youtu.be/-D5YGTkTBH4) & [https://youtu.be/-D5YGTkTBH4](https://youtu.be/BOQ9mmUd3dI)
 
-# Tuesday, March 8, 2022
+# Tuesday, March 8, 2022 - 2.5 hours (38.5 total)
 
 * 6:00pm-6:30pm In the name of trying to understand how to adding parameters to `getAll()` for Express.js APIs reviewed the JS window object, the Node.js server global environment, and the Node.js built in http module.
 * 6:30pm-7:00pm In the name of trying to understand how to adding parameters to `getAll()` for Express.js APIs reviewed Node.js/Express.js routing.
 * 7:00pm-7:30pm In the name of trying to understand how to adding parameters to `getAll()` for Express.js APIs research Node.js/Express.js request object (what the client sends to the Node.js server). Watch YouTube tutorial from Miss Xing [Node.js | Express.js - Request & Response Object in Express](https://youtu.be/TQEdpT6DIKo)
 * 7:45pm-8:15pm In the name of trying to understand how to adding parameters to `getAll()` for Express.js APIs continue researching Node.js/Express.js request object (what the client sends to the Node.js server). Watch YouTube tutorial from [Request object in express](https://youtu.be/S3PJylHxQsE)
+* 8:15pm-8:45pm Expand instructive comments in [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2) to improve it as a learning resource. See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main).
 
-TOTAL DOCUMENTED HOURS AS OF 3/8 8:15pm: 38
+TOTAL DOCUMENTED HOURS AS OF 3/8 8:45pm: 38.5
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
