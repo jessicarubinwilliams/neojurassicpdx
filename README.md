@@ -133,8 +133,9 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 # Tuesday, March 8, 2022
 
 * 6:00pm-6:30pm In the name of trying to understand how to adding parameters to `getAll()` for Express.js APIs reviewed the JS window object, the Node.js server global environment, and the Node.js built in http module.
+* 6:30pm-7:00pm In the name of trying to understand how to adding parameters to `getAll()` for Express.js APIs reviewed Node.js/express routing.
 
-TOTAL DOCUMENTED HOURS AS OF 3/8 6:30pm: 36.5
+TOTAL DOCUMENTED HOURS AS OF 3/8 7:00pm: 37
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
