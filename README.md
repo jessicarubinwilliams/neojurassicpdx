@@ -134,9 +134,10 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 
 * 6:00pm-6:30pm In the name of trying to understand how to adding parameters to `getAll()` for Express.js APIs reviewed the JS window object, the Node.js server global environment, and the Node.js built in http module.
 * 6:30pm-7:00pm In the name of trying to understand how to adding parameters to `getAll()` for Express.js APIs reviewed Node.js/Express.js routing.
-* 7:00pm-7:30pm In the name of trying to understand how to adding parameters to `getAll()` for Express.js APIs research Node.js/Express.js request objects (what the client sends to the Node.js server).
+* 7:00pm-7:30pm In the name of trying to understand how to adding parameters to `getAll()` for Express.js APIs research Node.js/Express.js request object (what the client sends to the Node.js server). Watch YouTube tutorial from Miss Xing [Node.js | Express.js - Request & Response Object in Express](https://youtu.be/TQEdpT6DIKo)
+* 7:45pm-8:15pm In the name of trying to understand how to adding parameters to `getAll()` for Express.js APIs continue researching Node.js/Express.js request object (what the client sends to the Node.js server). Watch YouTube tutorial from [Request object in express](https://youtu.be/S3PJylHxQsE)
 
-TOTAL DOCUMENTED HOURS AS OF 3/8 7:30pm: 37.5
+TOTAL DOCUMENTED HOURS AS OF 3/8 8:15pm: 38
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
