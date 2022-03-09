@@ -130,7 +130,11 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 7:30pm-8:00pm Continue researching adding parameters to `getAll()` for Express.js APIs. No resources of note found.
 * 8:00pm-8:30pm Continue researching adding parameters to `getAll()` for Express.js APIs. Possibly getting warm with discovery of JS URLSearchParams. [MDN Doc](https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams), [Node.js Doc](https://nodejs.org/api/url.html#class-urlsearchparams), YouTube Tutorials from dcode [URLSearchParams in JavaScript - Constructing Query Strings](https://youtu.be/-D5YGTkTBH4) & [https://youtu.be/-D5YGTkTBH4](https://youtu.be/BOQ9mmUd3dI)
 
-TOTAL DOCUMENTED HOURS AS OF 3/7 8:30pm: 36
+# Tuesday, March 8, 2022
+
+* 6:00pm-6:30pm In the name of trying to understand how to adding parameters to `getAll()` for Express.js APIs reviewed the JS window object, the Node.js server global environment, and the Node.js built in http module.
+
+TOTAL DOCUMENTED HOURS AS OF 3/8 6:30pm: 36.5
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
