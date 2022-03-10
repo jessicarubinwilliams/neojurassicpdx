@@ -68,7 +68,7 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 
 # Tuesday, March 1, 2022 - 6 hours (15 total)
 
-* 10am-11am Continue working on building sample API sample API using Firestore, Firebase, Node.js, Express middleware, and Typescript - [See commit history of the sample API's repo](https://github.com/jessicarubinwilliams/ebenezer-don-practice-api/commits/main) - research and experiment with how to configure Firebase Functions using .env as well as ES6 import statements. Eventually used require statement because it worked and that's what the Firebase documentation shows. Cobbled together something that works using multiple resources. [Firebase Admin SDK Docs](https://firebase.google.com/docs/admin/setup), [Firebase Environment Configuratin Docs](https://firebase.google.com/docs/functions/config-env), & ["Configuring Firebase Admin SDK with Express"](https://medium.com/@tanya/configuring-firebase-admin-sdk-with-express-931b02ee2f91) Medium article.
+* 10am-11am Continue working on building sample API sample API using Firestore, Firebase, Node.js, Express middleware, and Typescript - [See commit history of the sample API's repo](https://github.com/jessicarubinwilliams/ebenezer-don-practice-api/commits/main) - research and experiment with how to configure Firebase Functions using .env as well as ES6 import statements. Eventually used require statement because it worked and that's what the Firebase documentation shows. Cobbled together something that works using multiple resources. [Firebase Admin SDK Docs](https://firebase.google.com/docs/admin/setup), [Firebase Environment Configuration Docs](https://firebase.google.com/docs/functions/config-env), & ["Configuring Firebase Admin SDK with Express"](https://medium.com/@tanya/configuring-firebase-admin-sdk-with-express-931b02ee2f91) Medium article.
 * 1:30pm-2:30pm Continue working on building sample API sample API using Firestore, Firebase, Node.js, Express middleware, and Typescript - [See commit history of the sample API's repo](https://github.com/jessicarubinwilliams/ebenezer-don-practice-api/commits/main) - Add & deploy post route & test in Postman
 * 2:30pm-3:30pm Continue working on building sample API sample API using Firestore, Firebase, Node.js, Express middleware, and Typescript - [See commit history of the sample API's repo](https://github.com/jessicarubinwilliams/ebenezer-don-practice-api/commits/main) - Work on getAll route, currently broken & added stretch goals to the README
 * 6pm-6:30pm Housekeeping - updated this neglected log
@@ -101,7 +101,7 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 7:30pm-8:00 Continue researching Firebase REST APIs with Node.js & Express.js  - type up & organize notes I previoulsy took on YouTube tutorial [Firebase Node REST API | Firestore | Babel | REST | API](https://youtu.be/DO-PROnaVwo) - by Mahesh Kariya. See commit history of [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main)
 
 # Sunday, March 6, 2022 5.5 hours (28.5 total)
-* 9:30am-10am Continue researching Firebase/Firestore Rest APIs with Node.js & Express.js - rewatch YouTube tutorial [Building a RESTful API with Cloud Functions and Firestore](https://youtu.be/XY5WCkgVfPk) and look for ways to improve [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2). See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main).
+* 9:30am-10am Continue researching Firebase/Firestore Rest APIs with Node.js & Express.js - rewatch YouTube tutorial [Building a RESTful API with Cloud Functions and Firestore](https://youtu.be/XY5WCkgVfPk) by Soren Jorgensen and look for ways to improve [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2). See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main).
 * 10am-10:30am Research Firebase Local Emulator Suite - used for building, testing & QA without touching production data. Key resource was Firebse Docs [Introduction to Firebase Local Emulator Suite](https://firebase.google.com/docs/emulator-suite#:~:text=The%20Firebase%20Local%20Emulator%20Suite,get%20running%20and%20prototyping%20quickly.)
 * 10:30am-11am Continue researching Firebase Local Emulator Suite - used for building, testing & QA without touching production data. Key resources: YouTube Tutorials from Firebse [The Local Firebase Emulator UI in 15 minutes](https://youtu.be/pkgvFNPdiEs) & [How to set up Continuous Integration using the Firebase Emulator Suite](https://youtu.be/VgQwlMtxbAw).pm
 * 11am-11:30am Begin rewatching primary tutorial used for Practice API2 and take better notes. [Build a Serverless API with Firebase cloud functions, TypeScript and Firestore](https://www.youtube.com/watch?v=T8SZv6h2WbY) - by Ebenezer Don. See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main).
@@ -142,9 +142,10 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 
 * 1:45pm-2:15pm Begin developing a "Concepts Needed" section of Practice API 2's README.  
 * 2:15pm-2:45PM Continue developing a "Concepts Needed" section of Practice API 2's README.
-* 2:45pm-3:45pm Continue developing the "Concepts Needed" section of Practice API 2's README.
+* 2:45pm-3:15pm Continue developing the "Concepts Needed" section of Practice API 2's README.
+* 3:15pm-3:45pm Build out "Key Documentation & Tutorials" section of Practice API 2's README.
 
-TOTAL DOCUMENTED HOURS AS OF 3/9 8:45pm: 40
+TOTAL DOCUMENTED HOURS AS OF 3/9 4:15pm: 40.5
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
