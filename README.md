@@ -144,8 +144,10 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 2:15pm-2:45PM Continue developing a "Concepts Needed" section of Practice API 2's README.
 * 2:45pm-3:15pm Continue developing the "Concepts Needed" section of Practice API 2's README.
 * 3:15pm-3:45pm Build out "Key Documentation & Tutorials" section of Practice API 2's README.
+* 6:00pm-6:30pm Continue building out  "Key Documentation & Tutorials" section of Practice API 2's README & add instructive comments to index.ts & entryCobntroller.ts.
+* 6:30pm-7:00pm Continue building out  "Key Documentation & Tutorials" section of Practice API 2's README & add instructive comments to index.ts & entryCobntroller.ts.
 
-TOTAL DOCUMENTED HOURS AS OF 3/9 4:15pm: 40.5
+TOTAL DOCUMENTED HOURS AS OF 3/9 7:00pm: 41.5
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
