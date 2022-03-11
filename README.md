@@ -138,7 +138,7 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 7:45pm-8:15pm In the name of trying to understand how to add parameters to `getAll()` for Express.js APIs continue researching Node.js/Express.js request object (what the client sends to the Node.js server). Watch YouTube tutorial from [Request object in express](https://youtu.be/S3PJylHxQsE)
 * 8:15pm-8:45pm Expand instructive comments in [Practice API 2](https://github.com/jessicarubinwilliams/firebase-practice-api-2) to improve it as a learning resource. See that repo's [commit history](https://github.com/jessicarubinwilliams/firebase-practice-api-2/commits/main).
 
-# Wednesday, March 9, 2022
+# Wednesday, March 9, 2022 3 hours (41.5 total)
 
 * 1:45pm-2:15pm Begin developing a "Concepts Needed" section of Practice API 2's README.  
 * 2:15pm-2:45PM Continue developing a "Concepts Needed" section of Practice API 2's README.
@@ -147,7 +147,12 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 * 6:00pm-6:30pm Continue building out  "Key Documentation & Tutorials" section of Practice API 2's README & add instructive comments to index.ts & entryCobntroller.ts.
 * 6:30pm-7:00pm Continue building out  "Key Documentation & Tutorials" section of Practice API 2's README & add instructive comments to index.ts & entryCobntroller.ts.
 
-TOTAL DOCUMENTED HOURS AS OF 3/9 7:00pm: 41.5
+
+# Thursday, March 10, 2022
+* 4:00-4:30 Trouble shoot console.log()ing in Practice API 2's `getAll()` route response. In the name of trying to figure out how to add query strings to `getAll()`.
+* 4:30-5:00 Continue trouble shooting console.log()ing in Practice API 2's `getAll()` route response. In the name of trying to figure out how to add query strings to `getAll()`.
+
+TOTAL DOCUMENTED HOURS AS OF 3/10 5:00pm: 42.5
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
