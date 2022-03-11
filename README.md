@@ -149,10 +149,12 @@ _This project is a Capstone for my certificate in Web and Mobile Development fro
 
 
 # Thursday, March 10, 2022
-* 4:00-4:30 Trouble shoot console.log()ing in Practice API 2's `getAll()` route response. In the name of trying to figure out how to add query strings to `getAll()`.
-* 4:30-5:00 Continue trouble shooting console.log()ing in Practice API 2's `getAll()` route response. In the name of trying to figure out how to add query strings to `getAll()`.
+* 4:00pm-4:30pm Trouble shoot console.log()ing in Practice API 2's `getAll()` route response. In the name of trying to figure out how to add query strings to `getAll()`.
+* 4:30pm-5:00pm Continue trouble shooting console.log()ing in Practice API 2's `getAll()` route response. In the name of trying to figure out how to add query strings to `getAll()`.
+* 5:30pm-6:00pm Continue trouble shooting console.log()ing in Practice API 2's `getAll()` route response. In the name of trying to figure out how to add query strings to `getAll()`.
+* 6:00pm-6:30pm Trouble shooting returning the request object in Practice API 2's `getAll()` route response. In the name of trying to figure out how to add query strings to `getAll()`.
 
-TOTAL DOCUMENTED HOURS AS OF 3/10 5:00pm: 42.5
+TOTAL DOCUMENTED HOURS AS OF 3/10 6:30pm: 43.5
 
 ## Setup/Installation Requirements <a id="setup"></a>
 
